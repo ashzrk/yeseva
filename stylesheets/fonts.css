@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "YesevaOne-Regular";
+    src: url("../fonts/YesevaOne-Regular.ttf")  format('truetype'),
+    url('../fonts/YesevaOne-Regular.woff') format('woff');
+    font-style: normal;
+  }
+  @font-face {
+    font-family: "HSESans";
+    src: url("../fonts/HSESans.ttf")  format('truetype'),
+    url('../fonts/HSESans.woff') format('woff');
+    font-style: normal;
+  }
